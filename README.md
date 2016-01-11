@@ -8,8 +8,8 @@ This repository contains a script to train a model for visual question answering
 **Summary**:
 I have made a few scripts to download all the required data. On a fast internet connection, that should not take a lot of time. The only moderately heavy file is VGG Features for mscoco dataset.
 
-The script requires a few libraries : Keras, NumPy, SciPy, spacy, sklearn
-just pip them before running these scripts
+The script requires a few libraries : Keras, NumPy, SciPy, spacy, sklearn.
+Just pip them before running these scripts
 
 All the python scripts are in 'Scripts' folder.
 *TODO*: Comment on python scripts
