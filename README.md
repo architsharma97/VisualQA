@@ -1,8 +1,6 @@
 VisualQA
 ========
 
-*THE CODE IS STILL UNDER TESTING, SO BUGS MIGHT EXIST*
-
 This repository contains a script to train a model for visual question answering. The model contains a (to-be trained) LSTM and feature extraction from pre-trained VGG architecture. The model is heavy and will take a lot of time to train. So, train at your own risk. You are free to experiment with hyperparameters in the LSTM and MLP layers. Report back the results, if possible :)
 
 **Summary**:
